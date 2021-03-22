@@ -16,7 +16,8 @@ class StockCategoryController extends Controller
      */
     public function index()
     {
-        dd("inside the index..");
+        $stock_categories = StockCategory::all();
+        return Inertia::render('StockCategories/Index',['stock_categories'=>$stock_categories]);
     }
 
     /**

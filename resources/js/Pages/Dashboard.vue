@@ -2,7 +2,7 @@
     <breeze-authenticated-layout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-               My Beautiful Dashboard
+            Dashboard
             </h2>
         </template>
 
@@ -19,11 +19,9 @@
 </template>
 
 <script>
-    import BreezeAuthenticatedLayout from '@/Layouts/Authenticated'
+    import Layout from '@/Layouts/Layout'
 
     export default {
-        components: {
-            BreezeAuthenticatedLayout,
-        },
+        layout: Layout,
     }
 </script>
