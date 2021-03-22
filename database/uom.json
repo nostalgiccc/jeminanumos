@@ -1,0 +1,142 @@
+[
+    {
+      "id": "BAG",
+      "description": "Bag"
+    },
+    {
+      "id": "BKT",
+      "description": "Bucket"
+    },
+    {
+      "id": "BND",
+      "description": "Bundle"
+    },
+    {
+      "id": "BOWL",
+      "description": "Bowl"
+    },
+    {
+      "id": "BX",
+      "description": "Box"
+    },
+    {
+      "id": "CRD",
+      "description": "Card"
+    },
+    {
+      "id": "CM",
+      "description": "Centimeters"
+    },
+    {
+      "id": "CS",
+      "description": "Case"
+    },
+    {
+      "id": "CTN",
+      "description": "Carton"
+    },
+    {
+      "id": "DZ",
+      "description": "Dozen"
+    },
+    {
+      "id": "EA",
+      "description": "Each"
+    },
+    {
+      "id": "FT",
+      "description": "Foot"
+    },
+    {
+      "id": "GAL",
+      "description": "Gallon"
+    },
+    {
+      "id": "GROSS",
+      "description": "Gross"
+    },
+    {
+      "id": "IN",
+      "description": "Inches"
+    },
+    {
+      "id": "KIT",
+      "description": "Kit"
+    },
+    {
+      "id": "LOT",
+      "description": "Lot"
+    },
+    {
+      "id": "M",
+      "description": "Meter"
+    },
+    {
+      "id": "MM",
+      "description": "Millimeter"
+    },
+    {
+      "id": "PC",
+      "description": "Piece"
+    },
+    {
+      "id": "PK",
+      "description": "Pack"
+    },
+    {
+      "id": "PK100",
+      "description": "Pack 100"
+    },
+    {
+      "id": "PK50",
+      "description": "Pack 50"
+    },
+    {
+      "id": "PR",
+      "description": "Pair"
+    },
+    {
+      "id": "RACK",
+      "description": "Rack"
+    },
+    {
+      "id": "RL",
+      "description": "Roll"
+    },
+    {
+      "id": "SET",
+      "description": "Set"
+    },
+    {
+      "id": "SET3",
+      "description": "Set of 3"
+    },
+    {
+      "id": "SET4",
+      "description": "Set of 4"
+    },
+    {
+      "id": "SET5",
+      "description": "Set of 5"
+    },
+    {
+      "id": "SGL",
+      "description": "Single"
+    },
+    {
+      "id": "SHT",
+      "description": "Sheet"
+    },
+    {
+      "id": "SQFT",
+      "description": "Square ft"
+    },
+    {
+      "id": "TUBE",
+      "description": "Tube"
+    },
+    {
+      "id": "YD",
+      "description": "Yard"
+    }
+  ]
