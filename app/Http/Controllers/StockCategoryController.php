@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-
+use App\Models\StockCategory;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
@@ -17,7 +17,8 @@ class StockCategoryController extends Controller
     public function index()
     {
         $stock_categories = StockCategory::all();
-        return Inertia::render('StockCategories/Index',['stock_categories'=>$stock_categories]);
+        return Inertia::render('StockCategories/Index',
+        ['stock_categories'=>$stock_categories]);
     }
 
     /**
